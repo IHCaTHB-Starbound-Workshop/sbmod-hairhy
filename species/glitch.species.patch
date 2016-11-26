@@ -1,0 +1,58 @@
+[
+  {
+    "op": "test",
+    "path": "/IHCvar0",
+    "value": 1,
+    "inverse": true
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h10"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h13"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h14"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h16"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h27"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h10"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h13"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h14"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h16"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h27"
+  }
+]

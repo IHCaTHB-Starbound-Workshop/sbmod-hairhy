@@ -1,0 +1,488 @@
+[
+  {
+    "op": "test",
+    "path": "/IHCvar0",
+    "value": 1,
+    "inverse": true
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h1"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h2"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h3"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h4"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h5"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h6"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h7"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h8"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h9"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h10"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h11"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h12"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h13"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h14"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h15"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h16"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h17"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h18"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h19"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h20"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h21"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h22"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h23"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h24"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h25"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h26"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h27"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h28"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h29"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h30"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h31"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h32"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h33"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h34"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h35"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h36"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h37"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h38"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h39"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h40"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h41"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h42"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h43"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h44"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h45"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h46"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h47"
+  },
+  {
+    "op": "add",
+    "path": "/genders/0/hair/-",
+    "value": "h48"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h1"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h2"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h3"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h4"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h5"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h6"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h7"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h8"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h9"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h10"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h11"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h12"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h13"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h14"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h15"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h16"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h17"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h18"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h19"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h20"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h21"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h22"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h23"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h24"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h25"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h26"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h27"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h28"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h29"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h30"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h31"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h32"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h33"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h34"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h35"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h36"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h37"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h38"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h39"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h40"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h41"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h42"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h43"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h44"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h45"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h46"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h47"
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair/-",
+    "value": "h48"
+  }
+]
