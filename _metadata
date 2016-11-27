@@ -1,13 +1,11 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "^#5aa9d6;Vanilla races now all have access to the hair-like hylotl hair.^reset;
-
-Applies to npcs as well. Art entirely from vanilla assets.
-
-For more, click the MEGATHREAD link from the steam page.",
+  "description" : "^#5aa9d6;Vanilla races now all have access to the hair-like hylotl hair.^reset;\n\nApplies to npcs as well. Art entirely from vanilla assets.\n\nFor more, click the MEGATHREAD link from the steam page.",
   "friendlyName" : "Hairy Hylotls",
   "includes" : ["HAIRLOL.IHC"],
+  "link" : "steam://url/CommunityFilePage/807144279",
   "name" : "HAIRHY.IHC",
   "requires" : [],
+  "steamContentId" : "807144279",
   "version" : "0.1"
 }
